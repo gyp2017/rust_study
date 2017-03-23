@@ -1,0 +1,11 @@
+{
+  "name": "rust_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rust main.rs && ./main"
+  },
+  "author": "",
+  "license": "ISC"
+}
